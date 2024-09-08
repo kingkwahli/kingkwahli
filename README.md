@@ -21,10 +21,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <td align="center"><a href="https://www.reddit.com/u/kundalini_kwahli"><b>Reddit</b> 
-<td align="center"><a href="https://xdaforums.com/m/kingkwahli.12211307/"><b>XDA</b> 
-<td align="center"><a href="https://www.youtube.com/@kingkwahlilol"><b>YouTube</b> 
-<td align="center"><a href="mailto:kwahli11@icloud.com"><b>Email</b> 
-
+  <br>
+<td align="center"><a href="https://xdaforums.com/m/kingkwahli.12211307/"><b>XDA</b>
+  <br>
+<td align="center"><a href="https://www.youtube.com/@kingkwahlilol"><b>YouTube</b>
+  <br>
+  <td align="center"><a href="mailto:kwahli11@icloud.com"><b>Email</b> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
