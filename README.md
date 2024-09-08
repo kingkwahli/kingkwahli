@@ -1,3 +1,4 @@
+[![Me!.png](https://i.postimg.cc/LXYL7cWm/Untitled-design-3-1.png)](https://postimg.cc/Kkb13HFW)
 <h1 align="center">Hi 👋, I'm Kwahli.</h1>
 <h3 align="center">A 13-year-old Android developer from the U.S.</h3>
 
@@ -5,22 +6,25 @@
 
 - 🔭 I’m currently working on [resources for people who want to build LineageOS](https://github.com/kingkwahli/building_lineageos_resources)
 
-- 🌱 I’m currently learning **how to redesign old Win32-style apps into Fluent UI**
+- 🌱 I’m currently learning how to redesign old Win32-style apps into Fluent UI
 
 - 🤝 I’m looking for help with [fixing my bricked moto g stylus 5G](https://xdaforums.com/t/help-flashing-my-moto-g-stylus-5g-2021.4688048/)
 
-- 👨‍💻 All of my projects are available at [bit.ly/kwahliweb](bit.ly/kwahliweb)
+- 👨‍💻 All of my projects are available at [my website](bit.ly/kwahliweb)
 
-- 💬 Ask me about **Android development such as LineageOS**
+- 💬 Ask me about Android development such as LineageOS
 
-- 📫 How to reach me **kwahli11@icloud.com**
+- 📫 How to reach me: **kwahli11@icloud.com**
 
-- ⚡ Fun fact **I stream on YouTube and Twitch sometimes**
+- ⚡ Fun fact: I stream on YouTube and Twitch sometimes
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/kingkwahli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kingkwahli" height="30" width="40" /></a>
-<a href="https://discord.gg/kingkwahli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kingkwahli" height="30" width="40" /></a>
+<td align="center"><a href="https://www.reddit.com/u/kundalini_kwahli"><b>Reddit</b> 
+<td align="center"><a href="https://xdaforums.com/m/kingkwahli.12211307/"><b>XDA</b> 
+<td align="center"><a href="https://www.youtube.com/@kingkwahlilol"><b>YouTube</b> 
+<td align="center"><a href="mailto:kwahli11@icloud.com"><b>Email</b> 
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
