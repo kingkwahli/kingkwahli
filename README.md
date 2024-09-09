@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with [fixing my bricked moto g stylus 5G](https://xdaforums.com/t/help-flashing-my-moto-g-stylus-5g-2021.4688048/)
 
-- 👨‍💻 All of my projects are available at [my website](bit.ly/kwahliweb)
+- 👨‍💻 All of my projects are available at [my website](https://bit.ly/kwahliweb)
 
 - 💬 Ask me about Android development such as LineageOS
 
